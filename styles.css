@@ -1,5 +1,5 @@
 body {
-    color: black;
+    color: yellow;
     background: black;
 margin: 0px;
 font-family: "Merriweather", serif;
@@ -11,7 +11,7 @@ margin-bottom: 100px;
     border-bottom: solid 2px black ;
   padding: 20px;
 font-size: 30px;
-color:#000000;
+color: black;
 }
 
 section{
@@ -23,7 +23,7 @@ section{
 }
 
 .chamada-texto{ 
-    margin-right: 2%;
+    margin-right: 5%;
 }
 h1{
     font-size: 45px;
